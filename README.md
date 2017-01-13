@@ -6,9 +6,9 @@ In addition, you can use the "github issue" reactions (thumbs up) to upvote sugg
 
 <img src="http://shiffman.net/images/githubthumbsup.png" width=25%>
 
-If you [subscribe to my patreon](https://www.patreon.com/codingrainbow?ty=h) there is also a private slack channel where we discuss topic ideas.
+If you [subscribe to my patreon](https://www.patreon.com/codingtrain) there is also a private slack channel where we discuss topic ideas.
 
 ## URLS
-* http://codingrainbow.com
+* http://thecodingtrain.com
 * http://youtube.com/shiffman
-* https://www.patreon.com/codingrainbow?ty=h
+* https://www.patreon.com/codingtrain
