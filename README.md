@@ -10,5 +10,5 @@ If you [subscribe to my patreon](https://www.patreon.com/codingtrain) there is a
 
 ## URLS
 * http://thecodingtrain.com
-* http://youtube.com/shiffman
+* http://youtube.com/user/shiffman
 * https://www.patreon.com/codingtrain
