@@ -1,0 +1,10 @@
+Commands for Coding Dictating
+•	Python simple http server setup command
+•	Processing typing issue
+•	Open console in chrome command
+•	String words together without spaces
+•	Use camel cases
+•	 pull p5.js API
+•	 Dictionary definition for words it doesn’t know
+•	Move cursor around commands
+•	Bugfixes?
