@@ -1,6 +1,6 @@
 Commands for Coding Dictating
 •	Python simple http server setup command
-•	Processing typing issue
+•	Processing typing issuemm. .m/;lmk;lml;,/l
 •	Open console in chrome command
 •	String words together without spaces
 •	Use camel cases
