@@ -1,8 +1,8 @@
 # Coding Train Topics
 
-This repo is for tracking Coding Train topics.  You can [browse existing suggestions](https://github.com/CodingRainbow/Rainbow-Topics/issues) as well as [suggest a new topic](https://github.com/CodingRainbow/Rainbow-Topics/issues/new).
+This repo is for tracking the Coding Train topics.  You can [browse existing suggestions](https://github.com/CodingRainbow/Rainbow-Topics/issues) as well as [suggest a new topic](https://github.com/CodingRainbow/Rainbow-Topics/issues/new).
 
-In addition, you can use the "github issue" reactions (thumbs up) to upvote suggestions.
+In addition, you can also use the "github issue" reactions (thumbs up) to upvote suggestions.
 
 <img src="http://shiffman.net/images/githubthumbsup.png" width=25% alt="View the button to use in the to right of issues and comments to add a GitHub reactions.">
 
