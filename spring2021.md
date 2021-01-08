@@ -30,6 +30,7 @@
 
 ### Machine Learning
 * NeuroEvolution w/ ml5.js
+* Reinforcement Learning (Q-Learning)
 * (RunwayML) StyleGAN latent space walk
 
 ### JavaScript "express stops" "bytes" / "shorts" (what's a train name?)
