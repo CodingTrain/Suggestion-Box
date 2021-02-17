@@ -8,3 +8,4 @@ Commands for Coding Dictating
 •	 Dictionary definition for words it doesn’t know
 •	Move cursor around commands
 •	Bugfixes?
+thank you shiffman
