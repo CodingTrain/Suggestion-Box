@@ -11,7 +11,10 @@
 * p5.glitch library
 * Shaders!!!!!! !!!!! !!!!! 
 * 2D platformer
-* Falling Sand
+* Falling Sand,   
+   * Noita-like Sand, Water, Fire, Smoke etc + box2d
+   * https://www.youtube.com/watch?v=VLZjd_Y1gJ8
+   * https://www.youtube.com/watch?v=prXuyMCgbTc
 * Connect 4
 * Spot It (Dobble)
 * Run 1
